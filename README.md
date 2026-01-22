@@ -4,7 +4,20 @@
 ☕ Aspiring web developer
 
 ---
- 
+
+### 🌟 Goals for 2026 
+✔️ Complete focus on creating TBE!! 
+
+---
+
+### 📫 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dr-maryam-azam-pt-a4b157245/) 
+
+([![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the.becoming.edit))
+
+---
+
 - 🌱 Currently learning **JavaScript** (done with HTML & CSS ✅)  
 - 🔭 Next stop: **MERN Stack Development**  
 - 💡 Passionate about blending **healthcare + technology**  
@@ -28,21 +41,3 @@
 
 
 
----
-
-### 🌟 Goals for 2026 
-✔️ Complete focus on creating TBE!! 
-
----
-
-### 📫 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dr-maryam-azam-pt-a4b157245/) 
-
-(![Instagram](https://img.shields.io)(https://www.instagram.com/the.becoming.edit) 
-
-
-
----
-
-✨ *“Blending health and tech to create solutions that heal, help, and empower.”*  

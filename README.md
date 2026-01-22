@@ -1,5 +1,7 @@
 # Hi I'm Maryam.
-🩺 Doctor of Physical Therapy transitioning into the world of tech  
+🩺 Doctor of Physical Therapy 
+✨ Building The Becoming Edit
+☕ Aspiring web developer
 
 ---
  

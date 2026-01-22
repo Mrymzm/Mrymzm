@@ -30,16 +30,17 @@
 
 ---
 
-### 🌟 Goals for 2025  
-✔️ Build projects in **JavaScript & MERN**  
-✔️ Contribute to **open source**  
-✔️ Create projects at the **health + tech intersection**  
+### 🌟 Goals for 2026 
+✔️ Complete focus on creating TBE!! 
 
 ---
 
 ### 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dr-maryam-azam-pt-a4b157245/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dr-maryam-azam-pt-a4b157245/) 
+
+(![Instagram](https://img.shields.io)(https://www.instagram.com/the.becoming.edit) 
+
 
 
 ---

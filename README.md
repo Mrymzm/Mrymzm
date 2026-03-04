@@ -1,12 +1,11 @@
-# Hi I'm Maryam.
+
 🩺 Doctor of Physical Therapy 
 ✨ Building The Becoming Edit
-☕ Aspiring web developer
 
 ---
 
 ### 🌟 Goals for 2026 
-✔️ Complete focus on creating TBE!! 
+✔️ Take TBE to 100k followers! 
 
 ---
 
